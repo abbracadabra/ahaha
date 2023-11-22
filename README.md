@@ -7,7 +7,7 @@ phase1：搭建研发部门常见的研发效能、基础架构工具：
 参考资料：
 https://dbaplus.cn/news-134-4362-1.html
 https://skywalking.apache.org/docs/#Agents
-- 
+- 接入埋点，micrometer + prometheus
 
 
 phase2：搭建一个电商系统：
