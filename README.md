@@ -5,7 +5,7 @@ phase1：搭建研发部门常见的研发效能、基础架构工具：
 里程碑：
 - opentelemetry + load balance + read/write proxy + prometheus/jaeger
 参考资料：
-
+https://cloud.tencent.com/developer/article/1950680
 https://dbaplus.cn/news-134-4362-1.html
 https://skywalking.apache.org/docs/#Agents
 - 接入埋点，micrometer + prometheus
